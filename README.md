@@ -163,6 +163,11 @@ Entre na pasta do projeto:
 cd Converter_Nomes_Arquivos
 ```
 
+Execute o script:
+
+```bash
+python converter_nomes.py
+```
 ---
 
 ## 2. Adicione os arquivos
